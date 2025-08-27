@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard (Excel Project)
+## 📊 Sales Performance Dashboard 
 
 ## 📌 Overview
 This project presents an **Excel-based Sales Performance Dashboard** for the year 2024.  
